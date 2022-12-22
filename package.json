@@ -23,7 +23,7 @@
     "@nestjs/common": "^9.2.1",
     "@nestjs/core": "^6.10.14",
     "@nestjs/passport": "^7.0.0",
-    "@nestjs/platform-express": "^6.10.14",
+    "@nestjs/platform-express": "^9.2.1",
     "dotenv": "^8.2.0",
     "passport": "^0.6.0",
     "passport-google-oauth20": "^2.0.0",
