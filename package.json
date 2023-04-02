@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@nestjs/common": "^9.2.1",
-    "@nestjs/core": "^6.10.14",
+    "@nestjs/core": "^9.0.5",
     "@nestjs/passport": "^7.0.0",
     "@nestjs/platform-express": "^6.10.14",
     "dotenv": "^8.2.0",
